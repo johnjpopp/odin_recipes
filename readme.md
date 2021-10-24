@@ -1,1 +1,1 @@
-This is John's first html project using git.
+Purpose statement: This is John's first html project using git.
